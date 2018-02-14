@@ -10,7 +10,7 @@ CONFIG.uid = 'KeNaoPol82PUgaJXT7MaKJctzoZ2';
 CONFIG.baseUrl = 'https://us-central1-art-auction-2ef27.cloudfunctions.net';
 
 CONFIG.copy = {
-    artistName: 'Zoddo',
+    artistName: 'ImmortalZoddo',
     artistFname: 'Zoddo',
     // artistFname: 'JoshKumar | Copyright 2018',
     artistCategories: 'Surreal Expressionism | Monster Art',
